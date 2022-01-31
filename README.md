@@ -51,6 +51,7 @@ python ./src/train_svm.py --K --lr --epoch
   ki: the k-mer embeddings used for assemblying feature vector
   C: the confidence threshold for pruning
   ```
-
+# Supplement file
+This file contains the supplemental file in i5hmCVec paper
   
 
