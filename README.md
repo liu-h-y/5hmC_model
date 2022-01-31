@@ -54,4 +54,4 @@ python ./src/train_svm.py --K --lr --epoch
 # Supplement file
 This file contains the supplemental file in i5hmCVec paper
   
-7z and gzip can be used as tool for unzip file.
+7z and gzip can be used as tools for unzip file.
